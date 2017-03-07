@@ -1,5 +1,5 @@
 # Game-of-Life-OpenMP
-Game of Life implementation using OpenMP
+Game of Life implementation using OpenMP. Boards are commented out to increase runtime. Runtimes output into a text file called `execution_times.txt`. 
 
 ### Compilation Instructions
 
